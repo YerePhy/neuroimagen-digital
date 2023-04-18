@@ -1,4 +1,4 @@
-# Nueroimagen digital
+# Neuroimagen digital
 
 ***
 

@@ -1,0 +1,2 @@
+practica02/large-files/T1CE.nii.gz filter=lfs diff=lfs merge=lfs -text
+practica02/large-files/CT_Philips.nii.gz filter=lfs diff=lfs merge=lfs -text

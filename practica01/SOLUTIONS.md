@@ -1,4 +1,4 @@
-# Práctica 1
+# Práctica 1: Manexo básico da imaxe médica. Adquisición, conversión de formatos, cambios de resolución.
 
 ## Ejercicio 1
 
@@ -11,8 +11,9 @@ Según GIMP:
 
 ![Brain Image GIMP Properties](figures/exercise_02_brain_bmp_gimp_properties.png)
 
-| Formato de la imagen              | .bmp (Windows BMP image) |
+| Propiedad                         | Valor                    |
 |-----------------------------------|--------------------------|
+| Formato de la imagen              | .bmp (Windows BMP image) |
 | Ancho (píxeles)                   | 512                      |
 | Alto (píxeles)                    | 512                      |
 | Ancho (cm)                        | 18.06                    |
