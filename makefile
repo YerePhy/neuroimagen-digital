@@ -6,5 +6,5 @@ ROOT_DIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 N = 01
 
 lab-dir:
-	mkdir -p ${ROOT_DIR}practica"${N}"/{src,tests,resources,figures}
+	mkdir -p ${ROOT_DIR}practica"${N}"/{src,tests,resources,figures,large-files}
 	touch ${ROOT_DIR}practica"${N}"/SOLUTIONS.md
